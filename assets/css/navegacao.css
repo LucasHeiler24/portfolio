@@ -206,7 +206,7 @@ a:hover{
     margin: 0 auto;
     position: absolute;
     border-radius: 10px;
-    transform: translate(72vh, -16.5vh);
+    transform: translate(72vh, -16.9vh);
 }
 .content-2 p{
     color: #fff;
@@ -384,7 +384,7 @@ input{
     margin: 0 auto;
     position: absolute;
     border-radius: 10px;
-    transform: translate(136vh, 2.3vh);
+    transform: translate(140vh, 1.3vh);
 }
 .barra {
     height: 25px;
