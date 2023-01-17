@@ -612,6 +612,7 @@ section textarea:focus{
 .background-6 textarea:focus{
     border: 2px solid #000;
     padding: 15px;
+    overflow: hidden;
 }
 section button{
     width: 20%;
