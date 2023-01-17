@@ -125,7 +125,7 @@ a:hover{
     background: none;
     padding: 1px 15px 3px 2px;
     border-radius: 25px;
-    transform: translate(45vh, 30vh);
+    transform: translate(50vh, 30vh);
     border: 3px solid #6a0094;
     cursor: pointer;
 }
