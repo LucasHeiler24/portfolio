@@ -384,7 +384,7 @@ input{
     margin: 0 auto;
     position: absolute;
     border-radius: 10px;
-    transform: translate(145vh, 0.5vh);
+    transform: translate(145vh, 3.5vh);
 }
 .barra {
     height: 25px;
